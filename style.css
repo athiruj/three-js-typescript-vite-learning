@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+
+
+.body{
+  display: flex;
+}
+
+.body > canvas {
+  padding: 20px;
+  /* background-color: aqua; */
+}
